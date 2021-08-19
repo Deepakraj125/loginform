@@ -1,0 +1,25 @@
+body{
+    margin : 0px;
+    padding: 0px;
+    height : 100vh;
+    overflow:hidden; 
+}
+
+.center{
+    margin: 0 auto;
+    width:50%; 
+}
+
+.pass{
+    color: silver;
+}
+.pass:hover{
+    text-decoration: underline;
+    cursor: pointer;    
+}
+.btn{
+    height:20px;
+    width:100px;
+    padding:0px;
+    border-radius:5px;
+}

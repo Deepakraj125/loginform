@@ -1,0 +1,21 @@
+.sbutton, .rbutton{
+    height:20px;
+    width:100px;
+    padding:0px;
+    background: rgba(79, 146, 132, 0.733);
+    border-radius:5px;
+
+}
+
+.sbutton:active{
+    background-color:rgb(18, 116, 196);
+}
+.rbutton:active{
+    background-color:rgb(243, 7, 7);
+}
+
+.center-content{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
